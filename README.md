@@ -1,4 +1,4 @@
 # DevDiaries
-A Personal Blogging Website developed in Flask, Bootsrap and Flask SQLAlchemy.
+A Personal Blogging Website developed in Flask, Bootstrap and Flask SQLAlchemy.
 
 ## ** In Progress... **
